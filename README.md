@@ -5,15 +5,11 @@ There is also a feature that allows users to keep track of the date they start l
 
 Features:
 
--Map Annotations for Skating Obstacles
-
--Annotation editing and tagging features
-
--List of all annotations made
-
--List of various skateboarding tricks, sorted by type of trick
-
--Ability to set start and stop date when learning a trick
+  -Map Annotations for Skating Obstacles
+  -Annotation editing and tagging features
+  -List of all annotations made
+  -List of various skateboarding tricks, sorted by type of trick
+  -Ability to set start and stop date when learning a trick
 
 Demo Video Link: https://drive.google.com/file/d/11pA384qx4cZ7bhDXsru1f8_7BJEt05z3/view?usp=sharing
 
