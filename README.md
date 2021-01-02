@@ -10,7 +10,7 @@ Features
 * List of various skateboarding tricks, sorted by type of trick
 * Ability to set start and stop date when learning a trick
 
-Demo Video Link: https://drive.google.com/file/d/11pA384qx4cZ7bhDXsru1f8_7BJEt05z3/view?usp=sharing - automatic!
+Demo Video Link: https://drive.google.com/file/d/11pA384qx4cZ7bhDXsru1f8_7BJEt05z3/view?usp=sharing
 
 Background: Created for UC Berkeley iOS Decal, and selected by course staff to present at end of semester App showcase along with 5 other apps, chosen from a total of 20+ apps made by students in the class.
 
