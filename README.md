@@ -12,6 +12,10 @@ Features
 
 Demo Video Link: https://drive.google.com/file/d/11pA384qx4cZ7bhDXsru1f8_7BJEt05z3/view?usp=sharing
 
-Background: Created for UC Berkeley iOS Decal, and selected by course staff to present at end of semester App showcase along with 5 other apps, chosen from a total of 20+ apps made by students in the class.
+Next Steps
+* Enhanced UI and color palettes for Views
+* Custom pin marker images for the various obstacle types
+* Option to display only pins of a certain category
+* Updated trick list with more tricks, links to tutorial videos, and option to add video of user landing the trick for the first time
 
 Credits: Map Annotation features were created with guidance from HackingWithSwift tutorials
