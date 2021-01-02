@@ -6,12 +6,13 @@
 //
 
 import SwiftUI
+import MapKit
 
 @main
 struct CalSkateApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HomeView()
         }
     }
 }
